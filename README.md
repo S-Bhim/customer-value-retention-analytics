@@ -4,9 +4,7 @@
 **Python · SQL · Power BI · Customer Analytics**  
 **Author:** Soumabha Bhim
 
-**[View Interactive Dashboard](https://s-bhim.github.io/customer-value-retention-analytics/)** | [GitHub Repository](https://github.com/S-Bhim/customer-value-retention-analytics)
-
-*The hosted dashboard link becomes available after GitHub Pages is enabled. See the [publishing guide](PUBLISHING.md).*
+**[View Interactive Dashboard](https://s-bhim.github.io/customer-value-retention-analytics/)**
 
 An end-to-end portfolio case study analyzing **3,900 customers** of a US D2C fashion brand to understand customer value, promotional exposure and opportunities for targeted retention.
 
