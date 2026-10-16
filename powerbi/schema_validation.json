@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "validated_files": [
+    "project\\powerbi\\Founder.Report\\definition\\report.json",
+    "project\\powerbi\\Founder.Report\\definition\\version.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\pages.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\page.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\visuals\\CategoryHistory\\visual.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\visuals\\Geography\\visual.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\visuals\\KPI0\\visual.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\visuals\\KPI1\\visual.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\visuals\\KPI2\\visual.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\visuals\\KPI3\\visual.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\visuals\\PromoRetention\\visual.json",
+    "project\\powerbi\\Founder.Report\\definition\\pages\\Founder\\visuals\\Pyramid\\visual.json"
+  ],
+  "note": "Official report JSON schemas; no Power BI Desktop execution performed."
+}

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "report_schema_files": 12,
+  "unique_customers": 3900,
+  "observed_sales_usd": 233081,
+  "one_page_summary": true,
+  "visual_model_bindings": "PASS",
+  "desktop_runtime_tested": false
+}

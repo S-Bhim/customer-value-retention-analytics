@@ -1,0 +1,67 @@
+{
+  "customers": 3900,
+  "observed_sales_usd": 233081.0,
+  "aov_usd": 59.76435897435898,
+  "promo_customers": 1677,
+  "promo_customer_rate": 0.43,
+  "promo_sales_usd": 99411.0,
+  "promo_sales_share": 0.42650838120653334,
+  "loyalty_a_count": 1086,
+  "loyalty_a_rate": 0.2784615384615385,
+  "loyalty_b_count": 817,
+  "definition_jaccard": 0.3242867084203201,
+  "annual_spend_tier_cuts": [
+    572.0,
+    1924.0
+  ],
+  "sunset_eligible_customers": 74,
+  "sunset_observed_sales": 5356.0,
+  "icp_customers": 103,
+  "loyalty_comparison": [
+    {
+      "definition": "loyalty_a",
+      "customers": 1086,
+      "share": 0.2784615384615385,
+      "aov": 59.58011049723757,
+      "other_aov": 59.83546552949538,
+      "aov_lift": -0.004267620047711307,
+      "aov_difference": -0.2553550322578104,
+      "aov_ci_low": -1.9714040786595872,
+      "aov_ci_high": 1.3803642109107175,
+      "annual_spend_proxy_mean": 1733.5082872928176,
+      "promo_rate": 0.43922651933701656,
+      "satisfied_rate": 0.429097605893186
+    },
+    {
+      "definition": "loyalty_b",
+      "customers": 817,
+      "share": 0.2094871794871795,
+      "aov": 61.29742962056304,
+      "other_aov": 59.358092766785596,
+      "aov_lift": 0.03267181884359016,
+      "aov_difference": 1.9393368537774407,
+      "aov_ci_low": 0.16051612248795682,
+      "aov_ci_high": 3.8357149365315637,
+      "annual_spend_proxy_mean": 1082.3096695226438,
+      "promo_rate": 0.41003671970624234,
+      "satisfied_rate": 1.0
+    }
+  ],
+  "data_quality": {
+    "raw_rows": 3900,
+    "clean_rows": 3900,
+    "exact_duplicates_removed": 0,
+    "unique_customers": 3900,
+    "missing_review_ratings": 37,
+    "missing_review_pct": 0.009487179487179488,
+    "promo_fields_identical": true,
+    "female_promo_customers": 0,
+    "subscribers_without_promo": 0,
+    "male_nonsubscriber_aov_difference_ci": [
+      -1.0585897435897422,
+      -3.4944807692307687,
+      1.4169871794871793
+    ],
+    "raw_sha256": "d1f0b8e906cde9d909361ea28f08b0f33e74659ed4a42cd1d747fd9db2ffa701"
+  }
+}

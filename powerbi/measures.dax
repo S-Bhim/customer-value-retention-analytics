@@ -1,0 +1,25 @@
+Customers = COUNTROWS(Customers)
+
+Observed sales USD = SUM(Customers[purchase_amount_usd])
+
+Average order USD = DIVIDE([Observed sales USD], [Customers])
+
+Promo customer share = AVERAGE(Customers[promo_exposed])
+
+Promo sales share = DIVIDE(CALCULATE([Observed sales USD], Customers[promo_exposed] = 1), [Observed sales USD])
+
+Repeat cadence proxy = AVERAGE(Customers[loyalty_a])
+
+High history share = AVERAGE(Customers[high_history])
+
+Annual spend proxy USD = SUM(Customers[annual_spend_proxy_usd])
+
+Observed sales share = DIVIDE([Observed sales USD], CALCULATE([Observed sales USD], REMOVEFILTERS(Customers[value_tier])))
+
+Full price sales USD = CALCULATE([Observed sales USD], Customers[promo_exposed] = 0)
+
+Full price spend per customer = DIVIDE([Full price sales USD], [Customers])
+
+Smoothed full price spend = DIVIDE([Full price sales USD] + 50 * CALCULATE([Full price spend per customer], REMOVEFILTERS(Customers[state_country])), [Customers] + 50)
+
+Sunset eligible customers = SUM(Customers[sunset_eligible])

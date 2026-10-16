@@ -1,0 +1,15 @@
+segment,satisfaction_flag,customers,observed_sales_usd,sunset_eligible,promo_rate,promo_sales_share
+Developing full price,Neutral,320,18945,0,0.0,0.0
+Developing full price,Satisfied,670,40440,0,0.0,0.0
+Developing full price,Service recovery,624,37347,0,0.0,0.0
+Developing promo exposed,Neutral,224,12989,0,1.0,1.0
+Developing promo exposed,Satisfied,498,30260,0,1.0,1.0
+Developing promo exposed,Service recovery,449,26470,0,1.0,1.0
+Developing promo exposed,Unknown,29,1926,0,1.0,1.0
+Established full price,Neutral,117,7271,0,0.0,0.0
+Established full price,Satisfied,272,16766,0,0.0,0.0
+Established full price,Service recovery,220,12901,0,0.0,0.0
+Established promo exposed,Neutral,90,4946,0,1.0,1.0
+Established promo exposed,Satisfied,194,11429,74,1.0,1.0
+Established promo exposed,Service recovery,185,10865,0,1.0,1.0
+Established promo exposed,Unknown,8,526,0,1.0,1.0

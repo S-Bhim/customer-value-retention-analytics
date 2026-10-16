@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Unique IDs and valid ranges",
+    "3900 rows preserved",
+    "Unknown satisfaction retained",
+    "SQL counts reconcile",
+    "SQL sales reconcile",
+    "Loyalty rules reconcile",
+    "Dependency proxy range"
+  ],
+  "quality": {
+    "raw_rows": 3900,
+    "clean_rows": 3900,
+    "exact_duplicates_removed": 0,
+    "unique_customers": 3900,
+    "missing_review_ratings": 37,
+    "missing_review_pct": 0.009487179487179488,
+    "promo_fields_identical": true,
+    "female_promo_customers": 0,
+    "subscribers_without_promo": 0,
+    "male_nonsubscriber_aov_difference_ci": [
+      -1.0585897435897422,
+      -3.4944807692307687,
+      1.4169871794871793
+    ],
+    "raw_sha256": "d1f0b8e906cde9d909361ea28f08b0f33e74659ed4a42cd1d747fd9db2ffa701"
+  }
+}

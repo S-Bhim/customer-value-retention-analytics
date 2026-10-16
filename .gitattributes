@@ -1,0 +1,16 @@
+# Store source text with consistent LF endings.
+* text=auto eol=lf
+
+# Never normalize binary artifacts.
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.sqlite binary
+*.db binary
+*.zip binary
+*.pbix binary
+*.pbit binary
+
+# Preserve the original source CSV bytes and fingerprint.
+data/raw/*.csv -text

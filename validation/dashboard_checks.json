@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "runtime": "Headless Google Chrome",
+  "checks": ["Initial row count 3900", "50 state tiles", "Footwear filter gives 599 rows", "Combined category/state filters", "Reset restores 3900 rows", "Initial KPI recorded sales $233,081"],
+  "note": "Offline HTML companion tested; no Power BI Desktop runtime test performed."
+}

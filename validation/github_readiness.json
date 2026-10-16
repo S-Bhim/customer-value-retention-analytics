@@ -1,0 +1,9 @@
+{
+  "git_staging": "PASS",
+  "longpaths_enabled_for_test": false,
+  "autocrlf_enabled_for_test": true,
+  "line_ending_warnings": false,
+  "binary_and_raw_data_integrity": "PASS",
+  "hosted_offline_equality": "PASS",
+  "external_publication_performed": false
+}

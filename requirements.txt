@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+pandas>=2.2,<4
+matplotlib>=3.8,<4
+reportlab>=4,<5
+pypdf>=5,<7
+jsonschema>=4.25,<5

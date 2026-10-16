@@ -1,0 +1,27 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Machine-specific files and credentials
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+!.env.example
+
+# Power BI local workspace/cache
+**/.pbi/
+*.pbix.autosave
+
+# Temporary work and duplicate archives
+tmp/
+work/
+*.log
+*.zip
+
+# Assignment source contains personal contact details.
+references/

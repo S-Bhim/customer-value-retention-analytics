@@ -1,0 +1,91 @@
+age_band,gender,category,payment_method,cadence_group,customers,aov_usd
+18-24,Female,Accessories,Cash,Weekly,1,73.0
+18-24,Female,Clothing,Bank Transfer,Weekly,1,42.0
+18-24,Female,Clothing,Credit Card,Weekly,1,63.0
+18-24,Female,Outerwear,Venmo,Weekly,1,81.0
+18-24,Male,Accessories,Cash,Every two weeks,1,91.0
+18-24,Male,Clothing,Debit Card,Weekly,1,44.0
+18-24,Male,Footwear,Credit Card,Weekly,1,75.0
+18-24,Male,Outerwear,Bank Transfer,Every two weeks,1,78.0
+25-34,Female,Accessories,Bank Transfer,Every two weeks,1,80.0
+25-34,Female,Accessories,Bank Transfer,Weekly,1,44.0
+25-34,Female,Accessories,Credit Card,Weekly,1,45.0
+25-34,Female,Clothing,Bank Transfer,Every two weeks,1,87.0
+25-34,Female,Clothing,Cash,Every two weeks,1,83.0
+25-34,Female,Clothing,Credit Card,Every two weeks,3,81.66666666666667
+25-34,Female,Clothing,Credit Card,Weekly,1,95.0
+25-34,Female,Clothing,Debit Card,Weekly,1,96.0
+25-34,Female,Clothing,PayPal,Every two weeks,1,84.0
+25-34,Female,Clothing,Venmo,Weekly,1,46.0
+25-34,Female,Footwear,Cash,Weekly,1,56.0
+25-34,Female,Footwear,PayPal,Every two weeks,3,92.33333333333333
+25-34,Female,Outerwear,Credit Card,Every two weeks,1,86.0
+25-34,Male,Accessories,Credit Card,Weekly,1,82.0
+25-34,Male,Accessories,Venmo,Weekly,1,62.0
+25-34,Male,Clothing,Credit Card,Weekly,2,54.0
+25-34,Male,Clothing,PayPal,Weekly,3,63.666666666666664
+25-34,Male,Clothing,Venmo,Every two weeks,1,75.0
+35-44,Female,Accessories,PayPal,Weekly,1,99.0
+35-44,Female,Accessories,Venmo,Weekly,1,75.0
+35-44,Female,Clothing,Credit Card,Every two weeks,1,82.0
+35-44,Female,Clothing,Credit Card,Weekly,1,55.0
+35-44,Female,Clothing,Venmo,Every two weeks,1,82.0
+35-44,Female,Footwear,Bank Transfer,Weekly,1,66.0
+35-44,Male,Accessories,Credit Card,Every two weeks,1,74.0
+35-44,Male,Accessories,Debit Card,Weekly,1,45.0
+35-44,Male,Accessories,Venmo,Every two weeks,1,98.0
+35-44,Male,Clothing,Credit Card,Every two weeks,1,94.0
+35-44,Male,Clothing,Debit Card,Every two weeks,1,99.0
+35-44,Male,Clothing,Debit Card,Weekly,1,62.0
+35-44,Male,Footwear,Cash,Weekly,2,60.5
+35-44,Male,Outerwear,Credit Card,Weekly,1,42.0
+45-54,Female,Clothing,Bank Transfer,Every two weeks,1,100.0
+45-54,Female,Clothing,Bank Transfer,Weekly,1,54.0
+45-54,Female,Clothing,Credit Card,Weekly,1,82.0
+45-54,Female,Clothing,Debit Card,Every two weeks,1,76.0
+45-54,Female,Clothing,PayPal,Weekly,1,92.0
+45-54,Female,Footwear,Bank Transfer,Every two weeks,1,76.0
+45-54,Female,Footwear,Bank Transfer,Weekly,1,87.0
+45-54,Female,Footwear,Cash,Weekly,1,38.0
+45-54,Female,Footwear,Venmo,Every two weeks,1,98.0
+45-54,Female,Outerwear,Bank Transfer,Weekly,1,74.0
+45-54,Female,Outerwear,Cash,Every two weeks,1,85.0
+45-54,Male,Accessories,Bank Transfer,Every two weeks,1,96.0
+45-54,Male,Accessories,Cash,Weekly,1,74.0
+45-54,Male,Accessories,Credit Card,Every two weeks,1,90.0
+45-54,Male,Accessories,PayPal,Weekly,1,57.0
+45-54,Male,Clothing,Bank Transfer,Weekly,2,76.5
+45-54,Male,Clothing,Debit Card,Every two weeks,1,95.0
+45-54,Male,Clothing,PayPal,Every two weeks,2,94.0
+45-54,Male,Clothing,Venmo,Every two weeks,1,94.0
+45-54,Male,Footwear,Credit Card,Weekly,1,100.0
+55-64,Female,Accessories,Cash,Weekly,1,51.0
+55-64,Female,Accessories,Credit Card,Every two weeks,1,99.0
+55-64,Female,Accessories,Debit Card,Every two weeks,1,76.0
+55-64,Female,Accessories,PayPal,Weekly,1,42.0
+55-64,Female,Clothing,Cash,Weekly,1,44.0
+55-64,Female,Clothing,Credit Card,Every two weeks,1,80.0
+55-64,Female,Clothing,Venmo,Every two weeks,1,89.0
+55-64,Female,Footwear,Bank Transfer,Weekly,1,99.0
+55-64,Female,Footwear,Cash,Weekly,2,56.0
+55-64,Female,Footwear,Credit Card,Weekly,1,99.0
+55-64,Female,Outerwear,Bank Transfer,Every two weeks,1,92.0
+55-64,Male,Accessories,Cash,Weekly,1,96.0
+55-64,Male,Clothing,Cash,Every two weeks,2,86.5
+55-64,Male,Footwear,Cash,Every two weeks,1,82.0
+55-64,Male,Footwear,Debit Card,Every two weeks,1,92.0
+55-64,Male,Outerwear,Bank Transfer,Every two weeks,1,88.0
+65+,Female,Accessories,Cash,Weekly,1,73.0
+65+,Female,Accessories,Credit Card,Weekly,1,59.0
+65+,Female,Clothing,Cash,Every two weeks,1,88.0
+65+,Female,Footwear,PayPal,Weekly,2,63.5
+65+,Female,Footwear,Venmo,Every two weeks,1,85.0
+65+,Male,Accessories,Credit Card,Weekly,1,81.0
+65+,Male,Accessories,Debit Card,Every two weeks,1,81.0
+65+,Male,Clothing,Bank Transfer,Every two weeks,1,99.0
+65+,Male,Clothing,Credit Card,Every two weeks,1,97.0
+65+,Male,Clothing,Debit Card,Weekly,1,49.0
+65+,Male,Clothing,Venmo,Weekly,1,82.0
+65+,Male,Footwear,Bank Transfer,Every two weeks,1,98.0
+65+,Male,Footwear,Debit Card,Weekly,1,45.0
+65+,Male,Outerwear,Bank Transfer,Every two weeks,1,81.0
